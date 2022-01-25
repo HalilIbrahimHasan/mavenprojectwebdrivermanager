@@ -28,7 +28,7 @@ public class FirstTest {
             System.out.println("Title of the page is: " + driver.getTitle());
             Assert.assertTrue("This page is unexpected!",driver.getTitle().equals("Google"));
             System.out.println("we have a successful path that will allow executions");
-
+            System.out.println("Medunna project was nice with you");
 
         }
 
